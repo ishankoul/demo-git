@@ -1,3 +1,4 @@
 # demo-git
 demo descriptin!
-## fghj
+git status
+## fghj 
